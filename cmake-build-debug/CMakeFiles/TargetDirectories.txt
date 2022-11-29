@@ -1,0 +1,3 @@
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/cmake-build-debug/CMakeFiles/ProgettoCalcolo.dir

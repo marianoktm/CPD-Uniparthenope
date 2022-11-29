@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/main.c
+utils.h
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/utils.h
+
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/utils.c
+utils.h
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/utils.h
+
+/Users/marianoaponte/Documents/Uni/ProgettoCalcolo/utils.h
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+unistd.h
+-
+string.h
+-
+
